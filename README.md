@@ -1,2 +1,2 @@
-# adevntofcode
-Solutions for the Advent of Code puzzles
+# Advent of Code
+Solutions for the [Advent of Code](https://adventofcode.com) puzzles.
